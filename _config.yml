@@ -7,8 +7,7 @@ first_name: Balázs
 last_name: Szekér
 url: https://szekerbalazs.github.io
 baseurl: # leave empty, but don't delete the line
-contact_note: >
-  Email is the best way to reach me.
+contact_note: # short note shown below the contact icons on the about page (empty = none)
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Balázs Szekér, MSc Statistics student at ETH Zürich working on reinforcement learning for LLM agents.
 footer_text: >
@@ -94,7 +93,7 @@ al_folio:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: false
 posts_in_search: true
