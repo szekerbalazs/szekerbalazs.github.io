@@ -6,15 +6,16 @@ Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com
 
 ## Where things live
 
-| What                                         | File                                                                            |
-| -------------------------------------------- | ------------------------------------------------------------------------------- |
-| Site settings (title, description, features) | `_config.yml`                                                                   |
-| About page and bio                           | `_pages/about.md`                                                               |
-| Profile picture                              | `assets/img/prof_pic.jpg`                                                       |
-| CV page and PDF                              | `_data/cv.yml` (the "Render a CV" workflow regenerates the PDF on every change) |
-| Publications                                 | `_bibliography/papers.bib`                                                      |
-| Projects                                     | `_projects/`                                                                    |
-| Contact links                                | `_data/socials.yml`                                                             |
+| What                                         | File                              |
+| -------------------------------------------- | --------------------------------- |
+| Site settings (title, description, features) | `_config.yml`                     |
+| About page and bio                           | `_pages/about.md`                 |
+| Profile picture                              | `assets/img/prof_pic.jpg`         |
+| CV page                                      | `_data/cv.yml`                    |
+| CV PDF (download button)                     | `assets/pdf/CV_Balazs_Szeker.pdf` |
+| Publications                                 | `_bibliography/papers.bib`        |
+| Projects                                     | `_projects/`                      |
+| Contact links                                | `_data/socials.yml`               |
 
 Setup and customisation guides from al-folio are in [`docs/`](docs/).
 

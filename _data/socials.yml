@@ -4,6 +4,6 @@
 email: szekerb@ethz.ch # your email address
 linkedin_username: bal%C3%A1zs-szek%C3%A9r-80b647223 # your LinkedIn user name (URL-encoded)
 github_username: szekerbalazs # your GitHub user name
-cv_pdf: /assets/rendercv/rendercv_output/Balazs_Szeker_CV.pdf # generated from _data/cv.yml by the "Render a CV" workflow
+cv_pdf: /assets/pdf/CV_Balazs_Szeker.pdf # path to your CV PDF file
 # scholar_userid: # your Google Scholar ID, once you have a profile
 # orcid_id: # your ORCID ID, once you have one
