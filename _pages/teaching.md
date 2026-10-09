@@ -9,7 +9,7 @@ toc:
   sidebar: left
 ---
 
-I enjoy teaching, and I have done a fair amount of it alongside my studies: as a teaching assistant at ETH Zürich, as a private tutor, and through the course summaries I write and share. Writing things up is also how I learn.
+I enjoy teaching: as a teaching assistant at ETH Zürich, as a private tutor, and through the course summaries I share. I write a summary for every course I take to prepare for the exam, since it forces me to work through the material in depth, and I make them freely available so that others can use them too.
 
 ## Teaching assistant at ETH Zürich
 
@@ -17,14 +17,15 @@ I enjoy teaching, and I have done a fair amount of it alongside my studies: as a
 
 Master's course by Andreas Krause.
 
-- I write and revise the coding assignments and lead exercise sessions.
+- I currently hold tutorials.
+- Before that, I was on the projects team, creating and revising the coding assignments.
 - Recorded tutorial: [Gaussian processes](https://video.ethz.ch/lectures/d-infk/2026/autumn/263-5210-00L/v/Dfl7j4X74mL) (autumn 2026)
 
 ### Introduction to Machine Learning
 
 Bachelor's course by Andreas Krause and Fanny Yang.
 
-- I lead exercise sessions and prepare and review homework.
+- I hold tutorials and prepare and review homework.
 - Recorded tutorials:
   - [Probabilistic modelling, Gaussian mixture models and the EM algorithm](https://video.ethz.ch/lectures/d-infk/2026/spring/252-0220-00L/v/COpIPmMgYGm) (spring 2026)
   - Neural networks, [part 1](https://video.ethz.ch/lectures/d-infk/2025/spring/252-0220-00L/v/:9336203d-2ffe-442c-8121-fa73d1ad07e6) and [part 2](https://video.ethz.ch/lectures/d-infk/2025/spring/252-0220-00L/v/:f3289f18-9546-4571-bd95-2d4ec4fa2c96) (spring 2025)
@@ -36,7 +37,7 @@ Bachelor's course by Andreas Krause and Fanny Yang.
 
 ## Course summaries
 
-Throughout my studies I have written summaries of the courses I took. All of them are in my [Summaries repository](https://github.com/szekerbalazs/Summaries) on GitHub and free to use. Where a summary was written in LaTeX, the source is in the linked folder. The Master's summaries for the machine learning courses are two-page exam summaries.
+All my summaries are in my [Summaries repository](https://github.com/szekerbalazs/Summaries) on GitHub. Where a summary was written in LaTeX, the source is in the linked folder. The Master's summaries for the machine learning courses are two-page exam summaries.
 
 ### Master's in Statistics
 
