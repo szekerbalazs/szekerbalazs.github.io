@@ -20,7 +20,7 @@ cv:
         end_date: present
         highlights:
           - "GPA: 5.55/6.0"
-          - Master's thesis at the [Learning & Adaptive Systems Group](https://las.inf.ethz.ch/), supervised by Frederike Lübeck and Andreas Krause, on self-distillation and continual learning for multi-turn agentic tasks.
+          - Master's thesis at the [Learning & Adaptive Systems Group](https://las.inf.ethz.ch/), supervised by Frederike Lübeck and Andreas Krause, on continual learning in multi-turn, tool-use environments.
           - "Machine learning & AI: Advanced Machine Learning, Probabilistic Artificial Intelligence, Foundations of Reinforcement Learning, Large Language Models, Big Data"
           - "Statistics: Fundamentals of Mathematical Statistics, Time Series Analysis, Computational Statistics"
 
