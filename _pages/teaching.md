@@ -19,14 +19,14 @@ Master's course by Andreas Krause.
 
 - I currently hold tutorials.
 - Before that, I was on the projects team, creating and revising the coding assignments.
-- Recorded tutorial: [Gaussian processes](https://video.ethz.ch/lectures/d-infk/2026/autumn/263-5210-00L/v/Dfl7j4X74mL) (autumn 2026)
+- Recorded tutorial (ETH login required): [Gaussian processes](https://video.ethz.ch/lectures/d-infk/2026/autumn/263-5210-00L/v/Dfl7j4X74mL) (autumn 2026)
 
 ### Introduction to Machine Learning
 
 Bachelor's course by Andreas Krause and Fanny Yang.
 
 - I hold tutorials and prepare and review homework.
-- Recorded tutorials:
+- Recorded tutorials (ETH login required):
   - [Probabilistic modelling, Gaussian mixture models and the EM algorithm](https://video.ethz.ch/lectures/d-infk/2026/spring/252-0220-00L/v/COpIPmMgYGm) (spring 2026)
   - Neural networks, [part 1](https://video.ethz.ch/lectures/d-infk/2025/spring/252-0220-00L/v/:9336203d-2ffe-442c-8121-fa73d1ad07e6) and [part 2](https://video.ethz.ch/lectures/d-infk/2025/spring/252-0220-00L/v/:f3289f18-9546-4571-bd95-2d4ec4fa2c96) (spring 2025)
 
