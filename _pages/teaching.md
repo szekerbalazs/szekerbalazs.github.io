@@ -8,7 +8,7 @@ toc:
   sidebar: left
 _styles: >
   .post article h2 { margin-top: 3rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--global-divider-color); }
-  .post article h3 { margin-top: 2rem; font-size: 1.2rem; color: var(--global-theme-color); }
+  .post article h3 { margin-top: 2rem; font-size: 1.2rem; }
 ---
 
 I enjoy teaching, and I have done a fair amount of it alongside my studies: as a teaching assistant at ETH Zürich, as a private tutor, and through the course summaries I write and share.
@@ -17,7 +17,7 @@ I enjoy teaching, and I have done a fair amount of it alongside my studies: as a
 
 ### Probabilistic Artificial Intelligence (autumn semester)
 
-Master's course by Andreas Krause.
+Master's course by Andreas Krause. Course websites: [autumn 2026](https://las.inf.ethz.ch/teaching/pai-f26), [autumn 2025](https://las.inf.ethz.ch/teaching/pai-f25).
 
 - Teaching tutorials. Recorded (ETH login required):
   - [Gaussian processes](https://video.ethz.ch/lectures/d-infk/2026/autumn/263-5210-00L/v/Dfl7j4X74mL) (2026, with Maximilian Seeliger): from linear and Bayesian linear regression to Gaussian processes, kernels, inference and sampling, followed by old exam questions
@@ -26,7 +26,7 @@ Master's course by Andreas Krause.
 
 ### Introduction to Machine Learning (spring semester)
 
-Bachelor's course by Andreas Krause and Fanny Yang.
+Bachelor's course by Andreas Krause and Fanny Yang. Course websites: [spring 2026](https://las.inf.ethz.ch/teaching/introml-s26), [spring 2025](https://las.inf.ethz.ch/teaching/introml-s25).
 
 - Teaching tutorials. Recorded (ETH login required):
   - [Generative models and Gaussian mixture models](https://video.ethz.ch/lectures/d-infk/2026/spring/252-0220-00L/v/COpIPmMgYGm) (2026): Gaussian Bayes classifiers with an interactive demo of LDA, QDA and naive Bayes, Gaussian mixture models, the EM algorithm and anomaly detection
