@@ -19,10 +19,12 @@ cv:
         start_date: 2024
         end_date: present
         highlights:
-          - "GPA: 5.55/6.0"
           - Master's thesis at the [Learning & Adaptive Systems Group](https://las.inf.ethz.ch/), supervised by Frederike Lübeck and Andreas Krause, on continual learning in multi-turn, tool-use environments.
-          - "Machine learning & AI: Advanced Machine Learning, Probabilistic Artificial Intelligence, Foundations of Reinforcement Learning, Large Language Models, Big Data"
-          - "Statistics: Fundamentals of Mathematical Statistics, Time Series Analysis, Computational Statistics"
+          - |-
+            Relevant coursework:
+
+            - Machine learning & AI: Advanced Machine Learning, Probabilistic Artificial Intelligence, Foundations of Reinforcement Learning, Large Language Models, Big Data
+            - Statistics: Fundamentals of Mathematical Statistics, Time Series Analysis, Computational Statistics
 
       - institution: ETH Zürich
         location: Zürich, Switzerland
@@ -32,8 +34,7 @@ cv:
         start_date: 2019
         end_date: 2022
         highlights:
-          - "GPA: 5.25/6.0"
-          - Bachelor's thesis at the Paul Scherrer Institute (PSI) in radiochemistry; the research contributed to a peer-reviewed publication.
+          - Bachelor's thesis at the Paul Scherrer Institute (PSI) in radiochemistry; the research contributed to a [peer-reviewed publication](https://doi.org/10.1016/j.jallcom.2024.176954).
 
     Experience:
       - company: United Nations Office for Disaster Risk Reduction (UNDRR)
@@ -97,21 +98,3 @@ cv:
       - name: Heart-rhythm classification from ECG data
         url: https://github.com/szekerbalazs/szekerbalazs/blob/main/ECGAnalysis/ECGAnalysis.py
         summary: CNN-based classifier for heart-rhythm anomalies in ECG signals. Ranked 14th of 131 participants.
-
-    Skills:
-      - name: Programming
-        keywords: Python (PyTorch, TensorFlow, scikit-learn, pandas), SQL, R
-      - name: ML & data systems
-        keywords: verl, PostgreSQL, Azure AI Search, OpenAI API
-
-    Languages:
-      - name: German
-        summary: Native
-      - name: Hungarian
-        summary: Native
-      - name: English
-        summary: C2
-
-    Interests:
-      - name: Sports
-        keywords: Triathlon, cycling, running, swimming, scuba diving, surfing
