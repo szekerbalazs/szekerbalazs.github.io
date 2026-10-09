@@ -9,7 +9,7 @@ toc:
   sidebar: left
 ---
 
-I enjoy teaching: as a teaching assistant at ETH Zürich, as a private tutor, and through the course summaries I share. I write a summary for every course I take to prepare for the exam, since it forces me to work through the material in depth, and I make them freely available so that others can use them too.
+I enjoy teaching, and I have done a fair amount of it alongside my studies: as a teaching assistant at ETH Zürich, as a private tutor, and through the course summaries I write and share.
 
 ## Teaching assistant at ETH Zürich
 
@@ -37,7 +37,7 @@ Bachelor's course by Andreas Krause and Fanny Yang.
 
 ## Course summaries
 
-All my summaries are in my [Summaries repository](https://github.com/szekerbalazs/Summaries) on GitHub. Where a summary was written in LaTeX, the source is in the linked folder. The Master's summaries for the machine learning courses are two-page exam summaries.
+I write a summary for every course I take to prepare for the exam, since it forces me to work through the material in depth. All of them are in my [Summaries repository](https://github.com/szekerbalazs/Summaries) on GitHub and free to use. Where a summary was written in LaTeX, the source is in the linked folder. The Master's summaries for the machine learning courses are two-page exam summaries.
 
 ### Master's in Statistics
 
