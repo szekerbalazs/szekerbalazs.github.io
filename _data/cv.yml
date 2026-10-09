@@ -70,13 +70,13 @@ cv:
           - "Probabilistic Artificial Intelligence (A. Krause): creating and revising the coding assignments, leading exercise sessions."
           - "Introduction to Machine Learning (A. Krause & F. Yang): leading exercise sessions, developing and reviewing homework."
 
-      - company: Empa, Swiss Federal Laboratories for Materials Science and Technology
+      - company: Empa, Laboratory for Acoustics / Noise Control
         position: Research Intern (Computer Vision)
         location: Dübendorf, Switzerland
         start_date: 2022-10
         end_date: 2022-12
         highlights:
-          - Developed a Python pipeline for vehicle detection and tracking in drone footage (optical flow), producing velocity and acceleration profiles for downstream analysis.
+          - Developed a Python pipeline for vehicle detection and tracking in drone footage (optical flow), producing velocity and acceleration profiles used to predict traffic noise from video instead of acoustic measurements.
 
     Publications:
       - title: Unraveling the formation of Tb/Pd films by coupled reduction as targets for heavy ion-beam irradiation
