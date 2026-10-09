@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Forecasting roof colour from satellite imagery
+title: Forecasting Roof Colour from Satellite Imagery
 description: Data Scientist, Sika R&D, 2025
 importance: 2
-category: industry
+category: Industry
 ---
 
 At Sika Technology AG (Research and Development), I designed and implemented an application that forecasts how roof colour evolves worldwide, based on satellite imagery and spatiotemporal regression.

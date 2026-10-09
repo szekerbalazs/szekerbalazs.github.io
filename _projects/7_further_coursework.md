@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Further coursework projects
+title: Further Coursework Projects
 description: Fine-tuned BERT, contrastive learning, SWAG
 importance: 3
-category: coursework
+category: Coursework
 ---
 
 - **Sentiment analysis with fine-tuned BERT:** fine-tuned a pre-trained BERT model for sentiment classification on domain-specific text.

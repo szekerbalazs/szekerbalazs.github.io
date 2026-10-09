@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: Selected projects from research, industry and coursework.
+description: Selected projects from industry and coursework.
 nav: true
 nav_order: 3
-display_categories: [industry, coursework]
+display_categories: [Industry, Coursework]
 horizontal: false
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "DATUM: a RAG-based LLM system"
+title: "DATUM: A RAG-Based LLM System"
 description: UN Office for Disaster Risk Reduction (UNDRR), Bangkok, 2025–2026
 importance: 1
-category: industry
+category: Industry
 ---
 
 As an AI engineering intern at the United Nations Office for Disaster Risk Reduction (UNDRR) in Bangkok, I was the project manager leading the design and development of DATUM, a retrieval-augmented LLM system for large-scale knowledge access.

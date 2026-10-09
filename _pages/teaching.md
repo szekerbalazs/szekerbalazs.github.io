@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 nav: true
 nav_order: 4
 toc:
@@ -13,39 +13,39 @@ _styles: >
 
 I enjoy teaching, and I have done a fair amount of it alongside my studies: as a teaching assistant at ETH Zürich, as a private tutor, and through the course summaries I write and share.
 
-## Teaching assistant at ETH Zürich
+## Teaching Assistant at ETH Zürich
 
-### Probabilistic Artificial Intelligence (autumn semester)
+### Probabilistic Artificial Intelligence (Autumn Semester)
 
 Master's course by Andreas Krause. Course websites: [autumn 2026](https://las.inf.ethz.ch/teaching/pai-f26), [autumn 2025](https://las.inf.ethz.ch/teaching/pai-f25).
 
 - Teaching tutorials. Recorded (ETH login required):
-  - [Gaussian processes](https://video.ethz.ch/lectures/d-infk/2026/autumn/263-5210-00L/v/Dfl7j4X74mL) (2026): from linear and Bayesian linear regression to Gaussian processes, kernels, inference and sampling, followed by old exam questions
+  - [Gaussian Processes](https://video.ethz.ch/lectures/d-infk/2026/autumn/263-5210-00L/v/Dfl7j4X74mL) (2026): from linear and Bayesian linear regression to Gaussian processes, kernels, inference and sampling, followed by old exam questions
 - Creating homework
 - Creating and revising the coding assignments as part of the projects team
 
-### Introduction to Machine Learning (spring semester)
+### Introduction to Machine Learning (Spring Semester)
 
 Bachelor's course by Andreas Krause and Fanny Yang. Course websites: [spring 2026](https://las.inf.ethz.ch/teaching/introml-s26), [spring 2025](https://las.inf.ethz.ch/teaching/introml-s25).
 
 - Teaching tutorials. Recorded (ETH login required):
-  - [Generative models and Gaussian mixture models](https://video.ethz.ch/lectures/d-infk/2026/spring/252-0220-00L/v/COpIPmMgYGm) (2026): Gaussian Bayes classifiers with an interactive demo of LDA, QDA and naive Bayes, Gaussian mixture models, the EM algorithm and anomaly detection
-  - [Neural networks](https://video.ethz.ch/lectures/d-infk/2025/spring/252-0220-00L/v/:9336203d-2ffe-442c-8121-fa73d1ad07e6) (2025): from linear regression to neural networks, training and activation functions, followed by old exam questions
-  - [Neural networks homework](https://video.ethz.ch/lectures/d-infk/2025/spring/252-0220-00L/v/:f3289f18-9546-4571-bd95-2d4ec4fa2c96) (2025): constructing ReLU networks, gradient descent, and parameter counts of MLPs versus CNNs
+  - [Generative Models and Gaussian Mixture Models](https://video.ethz.ch/lectures/d-infk/2026/spring/252-0220-00L/v/COpIPmMgYGm) (2026): Gaussian Bayes classifiers with an interactive demo of LDA, QDA and naive Bayes, Gaussian mixture models, the EM algorithm and anomaly detection
+  - [Neural Networks](https://video.ethz.ch/lectures/d-infk/2025/spring/252-0220-00L/v/:9336203d-2ffe-442c-8121-fa73d1ad07e6) (2025): from linear regression to neural networks, training and activation functions, followed by old exam questions
+  - [Neural Networks Homework](https://video.ethz.ch/lectures/d-infk/2025/spring/252-0220-00L/v/:f3289f18-9546-4571-bd95-2d4ec4fa2c96) (2025): constructing ReLU networks, gradient descent, and parameter counts of MLPs versus CNNs
 - Creating and reviewing homework
 
-## Private tutoring
+## Private Tutoring
 
 - [EduQuant](https://eduquant.ch/): one-to-one lessons for ETH courses in machine learning, statistics and mathematics, including Probabilistic Artificial Intelligence, Introduction to Machine Learning and Analysis.
 - [Simple Learning](https://simple-learning.ch/): probability and statistics, analysis and calculus, linear algebra, and differential equations.
 
-## Course summaries
+## Course Summaries
 
 I write a summary for every course I take to prepare for the exam, since it forces me to work through the material in depth. They are free to use. Where a summary was written in LaTeX, the source is on [GitHub](https://github.com/szekerbalazs/Summaries). The Master's summaries for the machine learning courses are two-page exam summaries.
 
 ### Master's in Statistics
 
-| Course                                | Language | Summary                                                                                                                                       | LaTeX source                                                                                           |
+| Course                                | Language | Summary                                                                                                                                       | LaTeX Source                                                                                           |
 | ------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | Advanced Machine Learning             | English  | [PDF](/assets/pdf/summaries/master/advanced-machine-learning.pdf)                                                                             | —                                                                                                      |
 | Big Data for Engineers                | English  | [PDF](/assets/pdf/summaries/master/big-data-for-engineers.pdf)                                                                                | [GitHub](https://github.com/szekerbalazs/Summaries/tree/main/StatisticsMaster/BigDataForEngineers)     |
@@ -57,7 +57,7 @@ I write a summary for every course I take to prepare for the exam, since it forc
 
 ### Bachelor's in Physics
 
-| Course                             | Language | Summary                                                                     | LaTeX source                                                                                                  |
+| Course                             | Language | Summary                                                                     | LaTeX Source                                                                                                  |
 | ---------------------------------- | -------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | Analysis                           | German   | [PDF](/assets/pdf/summaries/bachelor/analysis.pdf)                          | [GitHub](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/Analysis)                        |
 | Complex Analysis                   | English  | [PDF](/assets/pdf/summaries/bachelor/complex-analysis.pdf)                  | [GitHub](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/ComplexAnalysis)                 |
