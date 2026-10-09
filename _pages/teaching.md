@@ -20,7 +20,7 @@ I enjoy teaching, and I have done a fair amount of it alongside my studies: as a
 Master's course by Andreas Krause. Course websites: [autumn 2026](https://las.inf.ethz.ch/teaching/pai-f26), [autumn 2025](https://las.inf.ethz.ch/teaching/pai-f25).
 
 - Teaching tutorials. Recorded (ETH login required):
-  - [Gaussian processes](https://video.ethz.ch/lectures/d-infk/2026/autumn/263-5210-00L/v/Dfl7j4X74mL) (2026, with Maximilian Seeliger): from linear and Bayesian linear regression to Gaussian processes, kernels, inference and sampling, followed by old exam questions
+  - [Gaussian processes](https://video.ethz.ch/lectures/d-infk/2026/autumn/263-5210-00L/v/Dfl7j4X74mL) (2026): from linear and Bayesian linear regression to Gaussian processes, kernels, inference and sampling, followed by old exam questions
 - Creating homework
 - Creating and revising the coding assignments as part of the projects team
 
@@ -30,8 +30,8 @@ Bachelor's course by Andreas Krause and Fanny Yang. Course websites: [spring 202
 
 - Teaching tutorials. Recorded (ETH login required):
   - [Generative models and Gaussian mixture models](https://video.ethz.ch/lectures/d-infk/2026/spring/252-0220-00L/v/COpIPmMgYGm) (2026): Gaussian Bayes classifiers with an interactive demo of LDA, QDA and naive Bayes, Gaussian mixture models, the EM algorithm and anomaly detection
-  - [Neural networks](https://video.ethz.ch/lectures/d-infk/2025/spring/252-0220-00L/v/:9336203d-2ffe-442c-8121-fa73d1ad07e6) (2025, with Rajesh Sharma): from linear regression to neural networks, training and activation functions, followed by old exam questions
-  - [Neural networks homework](https://video.ethz.ch/lectures/d-infk/2025/spring/252-0220-00L/v/:f3289f18-9546-4571-bd95-2d4ec4fa2c96) (2025, with Rajesh Sharma): constructing ReLU networks, gradient descent, and parameter counts of MLPs versus CNNs
+  - [Neural networks](https://video.ethz.ch/lectures/d-infk/2025/spring/252-0220-00L/v/:9336203d-2ffe-442c-8121-fa73d1ad07e6) (2025): from linear regression to neural networks, training and activation functions, followed by old exam questions
+  - [Neural networks homework](https://video.ethz.ch/lectures/d-infk/2025/spring/252-0220-00L/v/:f3289f18-9546-4571-bd95-2d4ec4fa2c96) (2025): constructing ReLU networks, gradient descent, and parameter counts of MLPs versus CNNs
 - Creating and reviewing homework
 
 ## Private tutoring
