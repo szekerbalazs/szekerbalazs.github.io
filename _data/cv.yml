@@ -48,6 +48,7 @@ cv:
           - Experimented with retrieval configurations to improve relevance and factual grounding.
           - Implemented embedding and vector search (OpenAI API, PostgreSQL, Azure AI Search).
           - Built a chatbot prototype for internal evaluation and deployment.
+          - "Blog post about the internship: [The Human Aspect of Artificial Intelligence](https://ethambassadors.ethz.ch/2026/08/06/the-human-aspect-of-artificial-intelligence/) (ETH Ambassadors, 2026)"
 
       - company: Sika Technology AG, Research and Development
         position: Data Scientist (Spatiotemporal Modelling)

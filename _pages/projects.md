@@ -5,7 +5,7 @@ permalink: /projects/
 description: Selected projects from research, industry and coursework.
 nav: true
 nav_order: 3
-display_categories: [research, industry, coursework]
+display_categories: [industry, coursework]
 horizontal: false
 ---
 
