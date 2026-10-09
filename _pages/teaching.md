@@ -2,68 +2,70 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Teaching assistant at ETH Zürich, private tutor, and author of course summaries.
 nav: true
 nav_order: 4
 toc:
   sidebar: left
+_styles: >
+  .post article h2 { margin-top: 3rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--global-divider-color); }
+  .post article h3 { margin-top: 2rem; font-size: 1.2rem; color: var(--global-theme-color); }
 ---
 
 I enjoy teaching, and I have done a fair amount of it alongside my studies: as a teaching assistant at ETH Zürich, as a private tutor, and through the course summaries I write and share.
 
 ## Teaching assistant at ETH Zürich
 
-### Probabilistic Artificial Intelligence
+### Probabilistic Artificial Intelligence (autumn semester)
 
 Master's course by Andreas Krause.
 
-- I currently hold tutorials.
-- Before that, I was on the projects team, creating and revising the coding assignments.
-- Recorded tutorial (ETH login required): [Gaussian processes](https://video.ethz.ch/lectures/d-infk/2026/autumn/263-5210-00L/v/Dfl7j4X74mL) (autumn 2026)
+- Teaching tutorials. Recorded (ETH login required): [Gaussian processes](https://video.ethz.ch/lectures/d-infk/2026/autumn/263-5210-00L/v/Dfl7j4X74mL), 2026
+- Creating homework
+- Creating and revising the coding assignments as part of the projects team
 
-### Introduction to Machine Learning
+### Introduction to Machine Learning (spring semester)
 
 Bachelor's course by Andreas Krause and Fanny Yang.
 
-- I hold tutorials and prepare and review homework.
-- Recorded tutorials (ETH login required):
-  - [Probabilistic modelling, Gaussian mixture models and the EM algorithm](https://video.ethz.ch/lectures/d-infk/2026/spring/252-0220-00L/v/COpIPmMgYGm) (spring 2026)
-  - Neural networks, [part 1](https://video.ethz.ch/lectures/d-infk/2025/spring/252-0220-00L/v/:9336203d-2ffe-442c-8121-fa73d1ad07e6) and [part 2](https://video.ethz.ch/lectures/d-infk/2025/spring/252-0220-00L/v/:f3289f18-9546-4571-bd95-2d4ec4fa2c96) (spring 2025)
+- Teaching tutorials. Recorded (ETH login required):
+  - [Probabilistic modelling, Gaussian mixture models and the EM algorithm](https://video.ethz.ch/lectures/d-infk/2026/spring/252-0220-00L/v/COpIPmMgYGm), 2026
+  - Neural networks, [part 1](https://video.ethz.ch/lectures/d-infk/2025/spring/252-0220-00L/v/:9336203d-2ffe-442c-8121-fa73d1ad07e6) and [part 2](https://video.ethz.ch/lectures/d-infk/2025/spring/252-0220-00L/v/:f3289f18-9546-4571-bd95-2d4ec4fa2c96), 2025
+- Creating and reviewing homework
 
 ## Private tutoring
 
-- [EduQuant](https://eduquant.ch/): private lessons for ETH courses, including Probabilistic Artificial Intelligence, Introduction to Machine Learning, Statistics, Analysis and Mathematics.
-- [Simple Learning](https://simple-learning.ch/): private lessons in Statistics and Mathematics.
+- [EduQuant](https://eduquant.ch/): one-to-one lessons for ETH courses in machine learning, statistics and mathematics, including Probabilistic Artificial Intelligence, Introduction to Machine Learning and Analysis.
+- [Simple Learning](https://simple-learning.ch/): probability and statistics, analysis and calculus, linear algebra, and differential equations.
 
 ## Course summaries
 
-I write a summary for every course I take to prepare for the exam, since it forces me to work through the material in depth. All of them are in my [Summaries repository](https://github.com/szekerbalazs/Summaries) on GitHub and free to use. Where a summary was written in LaTeX, the source is in the linked folder. The Master's summaries for the machine learning courses are two-page exam summaries.
+I write a summary for every course I take to prepare for the exam, since it forces me to work through the material in depth. They are free to use. Where a summary was written in LaTeX, the source is on [GitHub](https://github.com/szekerbalazs/Summaries). The Master's summaries for the machine learning courses are two-page exam summaries.
 
 ### Master's in Statistics
 
-| Course                                | Language | Summary                                                                                                                                                                                                                                             | LaTeX source                                                                                           |
-| ------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Advanced Machine Learning             | English  | [PDF](https://github.com/szekerbalazs/Summaries/blob/main/StatisticsMaster/AdvancedMachineLearning/AML_Summary.pdf)                                                                                                                                 | —                                                                                                      |
-| Big Data for Engineers                | English  | [PDF](https://github.com/szekerbalazs/Summaries/blob/main/StatisticsMaster/BigDataForEngineers/main.pdf)                                                                                                                                            | [folder](https://github.com/szekerbalazs/Summaries/tree/main/StatisticsMaster/BigDataForEngineers)     |
-| Computational Statistics              | English  | [PDF](https://github.com/szekerbalazs/Summaries/blob/main/StatisticsMaster/ComputationalStatistics/main.pdf)                                                                                                                                        | [folder](https://github.com/szekerbalazs/Summaries/tree/main/StatisticsMaster/ComputationalStatistics) |
-| Foundations of Reinforcement Learning | English  | [PDF](https://github.com/szekerbalazs/Summaries/blob/main/StatisticsMaster/FoundationsOfReinforcementLearning/FoRL_Summary.pdf)                                                                                                                     | —                                                                                                      |
-| Introduction to Machine Learning      | English  | [PDF](https://github.com/szekerbalazs/Summaries/blob/main/StatisticsMaster/IntroductionToMachineLearning/IML_Summary.pdf)                                                                                                                           | —                                                                                                      |
-| Large Language Models                 | English  | [PDF (v1)](https://github.com/szekerbalazs/Summaries/blob/main/StatisticsMaster/LargeLanguageModels/LLMs_Summary_V1.pdf) · [PDF (v2)](https://github.com/szekerbalazs/Summaries/blob/main/StatisticsMaster/LargeLanguageModels/LLMs_Summary_V2.pdf) | —                                                                                                      |
-| Probabilistic Artificial Intelligence | English  | [PDF](https://github.com/szekerbalazs/Summaries/blob/main/StatisticsMaster/ProbabilisticArtificialIntelligence/PAI_Summary.pdf)                                                                                                                     | —                                                                                                      |
+| Course                                | Language | Summary                                                                                                                                       | LaTeX source                                                                                           |
+| ------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Advanced Machine Learning             | English  | [PDF](/assets/pdf/summaries/master/advanced-machine-learning.pdf)                                                                             | —                                                                                                      |
+| Big Data for Engineers                | English  | [PDF](/assets/pdf/summaries/master/big-data-for-engineers.pdf)                                                                                | [GitHub](https://github.com/szekerbalazs/Summaries/tree/main/StatisticsMaster/BigDataForEngineers)     |
+| Computational Statistics              | English  | [PDF](/assets/pdf/summaries/master/computational-statistics.pdf)                                                                              | [GitHub](https://github.com/szekerbalazs/Summaries/tree/main/StatisticsMaster/ComputationalStatistics) |
+| Foundations of Reinforcement Learning | English  | [PDF](/assets/pdf/summaries/master/foundations-of-reinforcement-learning.pdf)                                                                 | —                                                                                                      |
+| Introduction to Machine Learning      | English  | [PDF](/assets/pdf/summaries/master/introduction-to-machine-learning.pdf)                                                                      | —                                                                                                      |
+| Large Language Models                 | English  | [PDF (v1)](/assets/pdf/summaries/master/large-language-models-v1.pdf) · [PDF (v2)](/assets/pdf/summaries/master/large-language-models-v2.pdf) | —                                                                                                      |
+| Probabilistic Artificial Intelligence | English  | [PDF](/assets/pdf/summaries/master/probabilistic-artificial-intelligence.pdf)                                                                 | —                                                                                                      |
 
 ### Bachelor's in Physics
 
-| Course                             | Language | Summary                                                                                                                                                                                                                                             | LaTeX source                                                                                                  |
-| ---------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Analysis                           | German   | [PDF](https://github.com/szekerbalazs/Summaries/blob/main/PhysicsBachelor/Analysis/main.pdf)                                                                                                                                                        | [folder](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/Analysis)                        |
-| Complex Analysis                   | English  | [PDF](https://github.com/szekerbalazs/Summaries/blob/main/PhysicsBachelor/ComplexAnalysis/main.pdf)                                                                                                                                                 | [folder](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/ComplexAnalysis)                 |
-| Electrodynamics                    | English  | [PDF](https://github.com/szekerbalazs/Summaries/blob/main/PhysicsBachelor/Electrodynamics/main.pdf)                                                                                                                                                 | [folder](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/Electrodynamics)                 |
-| Entrepreneurial Risk               | English  | [PDF](https://github.com/szekerbalazs/Summaries/blob/main/PhysicsBachelor/EntrepreneurialRisk/main.pdf)                                                                                                                                             | [folder](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/EntrepreneurialRisk)             |
-| Introduction to Negotiation        | English  | [PDF](https://github.com/szekerbalazs/Summaries/blob/main/PhysicsBachelor/IntroductionToNegotiation/main.pdf)                                                                                                                                       | [folder](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/IntroductionToNegotiation)       |
-| Linear Algebra                     | German   | [PDF](https://github.com/szekerbalazs/Summaries/blob/main/PhysicsBachelor/LineareAlgebra/main.pdf)                                                                                                                                                  | [folder](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/LineareAlgebra)                  |
-| Mathematical Methods of Physics II | German   | [PDF](https://github.com/szekerbalazs/Summaries/blob/main/PhysicsBachelor/MathematischeMethodenDerPhysik2/main.pdf)                                                                                                                                 | [folder](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/MathematischeMethodenDerPhysik2) |
-| Numerical Methods                  | German   | [PDF](https://github.com/szekerbalazs/Summaries/blob/main/PhysicsBachelor/NumerischeMethoden/main.pdf)                                                                                                                                              | [folder](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/NumerischeMethoden)              |
-| Physics II                         | German   | [PDF](https://github.com/szekerbalazs/Summaries/blob/main/PhysicsBachelor/Physik2/main.pdf)                                                                                                                                                         | [folder](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/Physik2)                         |
-| Physics III                        | English  | [PDF](https://github.com/szekerbalazs/Summaries/blob/main/PhysicsBachelor/Physik3/main.pdf)                                                                                                                                                         | [folder](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/Physik3)                         |
-| Quantum Mechanics I                | German   | [PDF](https://github.com/szekerbalazs/Summaries/blob/main/PhysicsBachelor/QuantumMechanics1/main.pdf)                                                                                                                                               | [folder](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/QuantumMechanics1)               |
-| Thermodynamics (Theorie der Wärme) | German   | [PDF (long)](https://github.com/szekerbalazs/Summaries/blob/main/PhysicsBachelor/TheorieDerWaerme/LongVersion/main.pdf) · [PDF (short)](https://github.com/szekerbalazs/Summaries/blob/main/PhysicsBachelor/TheorieDerWaerme/ShortVersion/main.pdf) | [folder](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/TheorieDerWaerme)                |
+| Course                             | Language | Summary                                                                     | LaTeX source                                                                                                  |
+| ---------------------------------- | -------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Analysis                           | German   | [PDF](/assets/pdf/summaries/bachelor/analysis.pdf)                          | [GitHub](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/Analysis)                        |
+| Complex Analysis                   | English  | [PDF](/assets/pdf/summaries/bachelor/complex-analysis.pdf)                  | [GitHub](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/ComplexAnalysis)                 |
+| Electrodynamics                    | English  | [PDF](/assets/pdf/summaries/bachelor/electrodynamics.pdf)                   | [GitHub](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/Electrodynamics)                 |
+| Entrepreneurial Risk               | English  | [PDF](/assets/pdf/summaries/bachelor/entrepreneurial-risk.pdf)              | [GitHub](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/EntrepreneurialRisk)             |
+| Introduction to Negotiation        | English  | [PDF](/assets/pdf/summaries/bachelor/introduction-to-negotiation.pdf)       | [GitHub](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/IntroductionToNegotiation)       |
+| Linear Algebra                     | German   | [PDF](/assets/pdf/summaries/bachelor/linear-algebra.pdf)                    | [GitHub](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/LineareAlgebra)                  |
+| Mathematical Methods of Physics II | German   | [PDF](/assets/pdf/summaries/bachelor/mathematical-methods-of-physics-2.pdf) | [GitHub](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/MathematischeMethodenDerPhysik2) |
+| Numerical Methods                  | German   | [PDF](/assets/pdf/summaries/bachelor/numerical-methods.pdf)                 | [GitHub](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/NumerischeMethoden)              |
+| Physics II                         | German   | [PDF](/assets/pdf/summaries/bachelor/physics-2.pdf)                         | [GitHub](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/Physik2)                         |
+| Physics III                        | English  | [PDF](/assets/pdf/summaries/bachelor/physics-3.pdf)                         | [GitHub](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/Physik3)                         |
+| Quantum Mechanics I                | German   | [PDF](/assets/pdf/summaries/bachelor/quantum-mechanics-1.pdf)               | [GitHub](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/QuantumMechanics1)               |
+| Thermodynamics (Theorie der Wärme) | German   | [PDF](/assets/pdf/summaries/bachelor/thermodynamics.pdf)                    | [GitHub](https://github.com/szekerbalazs/Summaries/tree/main/PhysicsBachelor/TheorieDerWaerme)                |
