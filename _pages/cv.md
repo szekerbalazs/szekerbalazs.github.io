@@ -3,10 +3,10 @@ layout: cv
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
+nav_order: 4
+cv_pdf: /assets/rendercv/rendercv_output/Balazs_Szeker_CV.pdf # generated from _data/cv.yml by the "Render a CV" workflow
 cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: The PDF version is generated automatically from this page's data.
 toc:
   sidebar: left
 ---
