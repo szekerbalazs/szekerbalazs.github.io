@@ -30,7 +30,9 @@ I am a Master's student in Statistics at ETH Zürich. My research focuses on rei
 
 For my Master's thesis, I work in the [Learning & Adaptive Systems Group](https://las.inf.ethz.ch/) at ETH Zürich, supervised by Frederike Lübeck and Andreas Krause, on continual learning in multi-turn, tool-use environments.
 
-Before that, I led the development of a retrieval-augmented LLM system at the United Nations Office for Disaster Risk Reduction (UNDRR) in Bangkok, and worked as a data scientist at Sika R&D on spatiotemporal models of satellite imagery. I wrote about my time at the UN in [The Human Aspect of Artificial Intelligence](https://ethambassadors.ethz.ch/2026/08/06/the-human-aspect-of-artificial-intelligence/) on the ETH Ambassadors blog. I also teach at ETH as a teaching assistant for Probabilistic Artificial Intelligence and Introduction to Machine Learning. I hold a BSc in Physics from ETH Zürich, with a Bachelor's thesis at the Paul Scherrer Institute.
+From October 2025 to March 2026, I was one of the first three AI interns at the United Nations Office for Disaster Risk Reduction (UNDRR) in Bangkok. I became project manager of DATUM, a retrieval-augmented LLM system that answers questions from UNDRR's internal documents, and together with the other interns gave regular talks to introduce colleagues to AI. Most of the people I worked with came from economics, law or other social sciences rather than STEM, which was a welcome change from ETH and a good reminder that most people do not look at the world through a mathematical lens. I wrote about this time, and about language bias and data sovereignty in AI, in [The Human Aspect of Artificial Intelligence](https://ethambassadors.ethz.ch/2026/08/06/the-human-aspect-of-artificial-intelligence/) on the ETH Ambassadors blog.
+
+Before that, I worked as a data scientist at Sika R&D on spatiotemporal models of satellite imagery. I also teach at ETH as a teaching assistant for Probabilistic Artificial Intelligence and Introduction to Machine Learning. I hold a BSc in Physics from ETH Zürich, with a Bachelor's thesis at the Paul Scherrer Institute.
 
 **Research interests**
 
