@@ -28,7 +28,7 @@ latest_posts:
 
 I am a Master's student in Statistics at ETH Zürich. My research focuses on reinforcement learning for large language models, in particular on training LLM agents that act over many turns and use tools.
 
-For my Master's thesis, I work in the [Learning & Adaptive Systems Group](https://las.inf.ethz.ch/) at ETH Zürich, supervised by Frederike Lübeck and Andreas Krause, on continual learning in multi-turn, tool-use environments.
+For my Master's thesis, I work in the [Learning & Adaptive Systems Group](https://las.inf.ethz.ch/) at ETH Zürich, supervised by Frederike Lübeck and Andreas Krause, on self-distillation and continual learning for LLM agents in multi-turn, tool-use environments.
 
 From October 2025 to March 2026, I was one of the first three AI interns at the United Nations Office for Disaster Risk Reduction (UNDRR) in Bangkok. In the ICT section, I was project manager of DATUM, a retrieval-augmented LLM system for UNDRR's internal documents. I wrote about this time, and what working in an international environment taught me, in [The Human Aspect of Artificial Intelligence](https://ethambassadors.ethz.ch/2026/08/06/the-human-aspect-of-artificial-intelligence/).
 
@@ -38,5 +38,5 @@ Before that, I worked as a data scientist at Sika R&D on spatiotemporal models o
 
 - Reinforcement learning for LLMs
 - LLM agents and tool use
-- Continual learning
+- Self-distillation and continual learning
 - Probabilistic machine learning
