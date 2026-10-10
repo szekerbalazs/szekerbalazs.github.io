@@ -1,14 +1,6 @@
 cv:
-  name: Balázs Szekér
-  email: szekerb [at] ethz [dot] ch
-  location: Zürich, Switzerland
-
-  social_networks:
-    - network: LinkedIn
-      username: balázs-szekér-80b647223
-    - network: GitHub
-      username: szekerbalazs
-
+  # Contact details (name, email, location) are left out on purpose, so the CV page
+  # shows no "Contact Information" box. The contact icons are on the About page.
   sections:
     Education:
       - institution: ETH Zürich
