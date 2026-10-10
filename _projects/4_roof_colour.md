@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Forecasting Roof Colour from Satellite Imagery
-description: Data Scientist, Sika R&D, 2025
+description: Data Science · Sika R&D · 2025
 importance: 2
 category: Industry
 ---

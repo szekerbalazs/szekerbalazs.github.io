@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Further Coursework Projects
-description: Fine-tuned BERT, contrastive learning, SWAG
+description: Fine-tuned BERT · Contrastive learning · SWAG
 importance: 3
 category: Coursework
 ---

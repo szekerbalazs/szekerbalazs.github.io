@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "DATUM: A RAG-Based LLM System"
-description: UN Office for Disaster Risk Reduction (UNDRR), Bangkok, 2025–2026
+description: AI Engineering · UNDRR · 2025–2026
 importance: 1
 category: Industry
 ---

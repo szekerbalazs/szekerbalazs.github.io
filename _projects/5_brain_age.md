@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Brain Age Prediction from MRI Features
-description: Regression on MRI-derived features. Ranked 13th of 150 teams.
+description: Stacking ensemble regression · Ranked 13th of 150 teams
 importance: 1
 category: Coursework
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Heart-Rhythm Classification from ECG Data
-description: CNN classifier for heart-rhythm anomalies. Ranked 14th of 131 participants.
+description: CNN–BiLSTM classifier · Ranked 14th of 131 participants
 importance: 2
 category: Coursework
 ---

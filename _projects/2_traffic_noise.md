@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Predicting Traffic Noise from Drone Footage
-description: Research Intern, Laboratory for Acoustics / Noise Control, Empa, 2022
+description: Computer Vision · Empa · 2022
 importance: 3
 category: Industry
 ---
