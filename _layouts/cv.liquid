@@ -25,7 +25,7 @@ layout: default
   }
   /* Light grey boxes in light mode (dark mode keeps the theme's card colour) */
   .cv .card {
-    background-color: #eceef1;
+    background-color: #f4f5f7;
   }
   html[data-theme='dark'] .cv .card {
     background-color: var(--global-card-bg-color);
@@ -44,13 +44,15 @@ layout: default
       flex-wrap: nowrap;
     }
     .cv .list-group-item > .row > .date-column {
-      flex: 0 0 11.5rem;
-      max-width: 11.5rem;
+      flex: 0 0 9.75rem;
+      max-width: 9.75rem;
+      padding-right: 0;
     }
     .cv .list-group-item > .row > .date-column + div {
       flex: 1 1 auto;
       max-width: none;
       min-width: 0;
+      padding-left: 0;
     }
   }
   @media (max-width: 767.98px) {
