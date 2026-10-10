@@ -11,4 +11,4 @@ At Sika Technology AG (Research and Development), I designed and implemented an 
 - Developed a Python pipeline using the Google Earth API to retrieve high-resolution satellite images.
 - Adapted a physics-based correction model to remove atmospheric and surface-impurity artefacts from the raw satellite data.
 - Built a time-series regression framework to capture and predict roof-colour changes over time.
-- Used Gaussian Process Regression to model the hyperparameters of the temporal model spatially.
+- Used various regression techniques (Gaussian Processes, Random Forests, Boosting, etc.) to model the hyperparameters of the temporal model spatially.
