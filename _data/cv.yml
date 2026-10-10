@@ -8,7 +8,7 @@ cv:
         url: https://math.ethz.ch/sfs/education/msc-in-statistics.html
         degree: MSc, Statistics
         start_date: 2024
-        end_date: present
+        end_date: Present
         highlights:
           - Master's thesis at the [Learning & Adaptive Systems Group](https://las.inf.ethz.ch/), supervised by [Frederike Lübeck](https://frederike-luebeck.de/) and [Andreas Krause](https://las.inf.ethz.ch/krausea), on self-distillation and continual learning for LLM agents in multi-turn, tool-use environments.
           - |-
@@ -55,7 +55,7 @@ cv:
         position: Teaching Assistant (Machine Learning)
         location: Zürich, Switzerland
         start_date: 2025-02
-        end_date: present
+        end_date: Present
         highlights:
           - "Probabilistic Artificial Intelligence (A. Krause): teaching tutorials; creating and revising homework and coding assignments."
           - "Introduction to Machine Learning (A. Krause & F. Yang): teaching tutorials; creating and revising homework."
