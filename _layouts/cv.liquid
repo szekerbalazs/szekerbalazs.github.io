@@ -30,10 +30,34 @@ layout: default
   html[data-theme='dark'] .cv .card {
     background-color: var(--global-card-bg-color);
   }
-  .cv .date-column {
+  /* Date column: fixed width next to the text on wider screens, stacked above it on narrow ones */
+  .cv .list-group-item > .row > .date-column {
     width: auto;
     transform: none;
     text-align: left !important;
+  }
+  .cv p.location {
+    white-space: normal;
+  }
+  @media (min-width: 768px) {
+    .cv .list-group-item > .row {
+      flex-wrap: nowrap;
+    }
+    .cv .list-group-item > .row > .date-column {
+      flex: 0 0 11.5rem;
+      max-width: 11.5rem;
+    }
+    .cv .list-group-item > .row > .date-column + div {
+      flex: 1 1 auto;
+      max-width: none;
+      min-width: 0;
+    }
+  }
+  @media (max-width: 767.98px) {
+    .cv .list-group-item > .row > div {
+      flex: 0 0 100%;
+      max-width: 100%;
+    }
   }
 </style>
 {% assign cv_feature_enabled = site.al_folio.features.cv.enabled | default: true %}
