@@ -14,8 +14,9 @@
   --global-code-bg-color: #{rgba(v.$blue-color, 0.05)};
   --global-text-color: #{v.$black-color};
   --global-text-color-light: #{v.$grey-color};
-  --global-theme-color: #{v.$blue-color};
-  --global-hover-color: #{v.$blue-color};
+  // Light-mode accent. To go back to the previous blue (#0076df), write #{v.$blue-color} on both lines.
+  --global-theme-color: #215caf;
+  --global-hover-color: #215caf;
   --global-hover-text-color: #{v.$white-color};
   --global-footer-bg-color: #{v.$grey-color-dark};
   --global-footer-text-color: #{v.$grey-color-light};
