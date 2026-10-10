@@ -8,6 +8,7 @@ on:
     paths:
       - "assets/**"
       - "**.bib"
+      - "**.scss"
       - "**.html"
       - "**.js"
       - "**.liquid"
@@ -35,6 +36,7 @@ on:
     paths:
       - "assets/**"
       - "**.bib"
+      - "**.scss"
       - "**.html"
       - "**.js"
       - "**.liquid"
