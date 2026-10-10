@@ -51,7 +51,7 @@ cv:
           - Designed and implemented an application to forecast global roof-colour evolution from satellite imagery using spatiotemporal regression.
           - Developed a Python pipeline using the Google Earth API to retrieve high-resolution satellite images.
           - Adapted a physics-based correction model to remove atmospheric and surface-impurity artefacts from raw satellite data.
-          - Built a time-series regression framework and used Gaussian Process Regression to model its hyperparameters spatially.
+          - Built a time-series regression framework and used various regression techniques to model its hyperparameters spatially.
 
       - company: ETH Zürich
         position: Teaching Assistant (Machine Learning)
@@ -59,8 +59,8 @@ cv:
         start_date: 2025-02
         end_date: present
         highlights:
-          - "Probabilistic Artificial Intelligence (A. Krause): creating and revising the coding assignments, leading exercise sessions."
-          - "Introduction to Machine Learning (A. Krause & F. Yang): leading exercise sessions, developing and reviewing homework."
+          - "Probabilistic Artificial Intelligence (A. Krause): Teaching tutorials and creating and revising homework as well as coding assignments."
+          - "Introduction to Machine Learning (A. Krause & F. Yang): Teaching tutorials and creating and revising homework."
 
       - company: Empa, Laboratory for Acoustics / Noise Control
         position: Research Intern (Computer Vision)
