@@ -5,9 +5,8 @@ cv:
     Education:
       - institution: ETH Zürich
         location: Zürich, Switzerland
-        url: https://ethz.ch/en.html
-        degree: MSc
-        area: Statistics
+        url: https://math.ethz.ch/sfs
+        degree: MSc, Statistics
         start_date: 2024
         end_date: present
         highlights:
@@ -20,9 +19,8 @@ cv:
 
       - institution: ETH Zürich
         location: Zürich, Switzerland
-        url: https://ethz.ch/en.html
-        degree: BSc
-        area: Physics
+        url: https://www.phys.ethz.ch/
+        degree: BSc, Physics
         start_date: 2019
         end_date: 2022
         highlights:
@@ -59,9 +57,9 @@ cv:
         start_date: 2025-02
         end_date: present
         highlights:
-          - "Probabilistic Artificial Intelligence (A. Krause): Teaching tutorials and creating and revising homework as well as coding assignments."
-          - "Introduction to Machine Learning (A. Krause & F. Yang): Teaching tutorials and creating and revising homework."
-          - "For more detail, see [Teaching](https://szekerbalazs.github.io/teaching/)."
+          - "Probabilistic Artificial Intelligence (A. Krause): teaching tutorials; creating and revising homework and coding assignments."
+          - "Introduction to Machine Learning (A. Krause & F. Yang): teaching tutorials; creating and revising homework."
+          - "For more details, see [Teaching](/teaching/)."
 
       - company: Empa, Laboratory for Acoustics / Noise Control
         position: Research Intern (Computer Vision)
