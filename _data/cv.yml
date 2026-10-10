@@ -29,6 +29,7 @@ cv:
     Experience:
       - company: United Nations Office for Disaster Risk Reduction (UNDRR)
         position: AI Engineering Intern (LLMs & Retrieval Systems)
+        url: /projects/datum_rag/
         location: Bangkok, Thailand
         start_date: 2025-10
         end_date: 2026-03
@@ -42,6 +43,7 @@ cv:
 
       - company: Sika Technology AG, Research and Development
         position: Data Scientist (Spatiotemporal Modelling)
+        url: /projects/roof_colour/
         location: Zürich, Switzerland
         start_date: 2025-03
         end_date: 2025-07
@@ -53,6 +55,7 @@ cv:
 
       - company: ETH Zürich
         position: Teaching Assistant (Machine Learning)
+        url: /teaching/#teaching-assistant-at-eth-z%C3%BCrich
         location: Zürich, Switzerland
         start_date: 2025-02
         end_date: Present
@@ -63,6 +66,7 @@ cv:
 
       - company: Empa, Laboratory for Acoustics / Noise Control
         position: Research Intern (Computer Vision)
+        url: /projects/traffic_noise/
         location: Dübendorf, Switzerland
         start_date: 2022-10
         end_date: 2022-12
