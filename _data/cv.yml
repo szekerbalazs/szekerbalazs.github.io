@@ -60,8 +60,8 @@ cv:
         start_date: 2025-02
         end_date: Present
         highlights:
-          - "Probabilistic Artificial Intelligence (A. Krause): teaching tutorials; creating and revising homework and coding assignments."
-          - "Introduction to Machine Learning (A. Krause & F. Yang): teaching tutorials; creating and revising homework."
+          - "Probabilistic Artificial Intelligence (A. Krause): teaching tutorials, creating and revising homework and coding assignments."
+          - "Introduction to Machine Learning (A. Krause & F. Yang): teaching tutorials, creating and revising homework."
 
       - company: Empa, Laboratory for Acoustics / Noise Control
         position: Research Intern (Computer Vision)
