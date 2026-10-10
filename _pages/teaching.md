@@ -22,7 +22,7 @@ I enjoy teaching, and I have done a fair amount of it alongside my studies: as a
 Master's course by Andreas Krause. Course websites: [autumn 2026](https://las.inf.ethz.ch/teaching/pai-f26), [autumn 2025](https://las.inf.ethz.ch/teaching/pai-f25).
 
 - Teaching tutorials. Recorded (ETH login required):
-  - [Gaussian Processes](https://video.ethz.ch/lectures/d-infk/2026/autumn/263-5210-00L/v/Dfl7j4X74mL) (2026): from linear regression via Bayesian linear regression to Gaussian processes, including kernels, inference and sampling
+  - [Gaussian Processes](https://video.ethz.ch/lectures/d-infk/2026/autumn/263-5210-00L/v/Dfl7j4X74mL) (2026): from linear regression via Bayesian linear regression to Gaussian processes, including kernels, learning, inference and sampling
 - Creating and revising homework assignments
 - Creating and revising coding assignments
 
