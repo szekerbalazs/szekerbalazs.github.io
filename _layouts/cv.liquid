@@ -17,11 +17,18 @@ layout: default
     background-color: transparent !important;
     color: var(--global-text-color) !important;
     text-transform: none !important;
-    font-size: 1rem;
+    font-size: 0.85rem;
     font-weight: 700;
     padding: 0;
     min-width: 0 !important;
     white-space: nowrap;
+  }
+  /* Light grey boxes in light mode (dark mode keeps the theme's card colour) */
+  .cv .card {
+    background-color: #f4f5f7;
+  }
+  html[data-theme='dark'] .cv .card {
+    background-color: var(--global-card-bg-color);
   }
   .cv .date-column {
     width: auto;

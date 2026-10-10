@@ -9,6 +9,7 @@ display_categories: [Industry, Coursework]
 horizontal: false
 _styles: >
   .projects h2.category { color: var(--global-text-color-light); }
+  .projects .card { background-color: #f4f5f7; }
   html[data-theme="dark"] .projects .card { background-color: #2a2b2f; border: 1px solid #3d3e44; }
 ---
 
