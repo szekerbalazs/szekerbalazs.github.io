@@ -7,6 +7,9 @@ nav: true
 nav_order: 3
 display_categories: [Industry, Coursework]
 horizontal: false
+_styles: >
+  .projects h2.category { color: var(--global-text-color-light); }
+  html[data-theme="dark"] .projects .card { background-color: #2a2b2f; border: 1px solid #3d3e44; }
 ---
 
 <!-- pages/projects.md -->

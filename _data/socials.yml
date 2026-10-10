@@ -4,6 +4,6 @@
 email: szekerb@ethz.ch # your email address
 linkedin_username: bal%C3%A1zs-szek%C3%A9r-80b647223 # your LinkedIn user name (URL-encoded)
 github_username: szekerbalazs # your GitHub user name
-cv_pdf: /assets/pdf/CV_Balazs_Szeker.pdf # path to your CV PDF file
+cv_pdf: /cv/ # CV icon links to the CV page (no public PDF)
 scholar_userid: F82gCKkAAAAJ # your Google Scholar ID
 orcid_id: 0009-0009-0458-5281 # your ORCID ID
