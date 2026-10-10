@@ -37,7 +37,7 @@ Bachelor's course by Andreas Krause and Fanny Yang. Course websites: [spring 202
 ## Private Tutoring
 
 - [EduQuant](https://eduquant.ch/): one-on-one lessons for ETH courses in machine learning, statistics and mathematics, including Probabilistic Artificial Intelligence, Introduction to Machine Learning and Analysis.
-- [Simple Learning](https://simple-learning.ch/): probability and statistics, analysis and calculus, linear algebra, and differential equations.
+- [Simple Learning](https://simple-learning.ch/): one-on-one lessons in probability and statistics, analysis and calculus, linear algebra, and differential equations. I also taught two exam preparation courses, one in mathematics and one in statistics, in which I covered a semester's worth of material in two days and worked through old exams with the students.
 
 ## Course Summaries
 
