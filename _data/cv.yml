@@ -11,12 +11,12 @@ cv:
         start_date: 2024
         end_date: present
         highlights:
-          - Master's thesis at the [Learning & Adaptive Systems Group](https://las.inf.ethz.ch/), supervised by Frederike Lübeck and Andreas Krause, on self-distillation and continual learning for LLM agents in multi-turn, tool-use environments.
+          - Master's thesis at the [Learning & Adaptive Systems Group](https://las.inf.ethz.ch/), supervised by [Frederike Lübeck](https://frederike-luebeck.de/) and [Andreas Krause](https://las.inf.ethz.ch/krausea), on self-distillation and continual learning for LLM agents in multi-turn, tool-use environments.
           - |-
-            Relevant coursework:
+            Selected coursework:
 
-            - Machine learning & AI: Advanced Machine Learning, Probabilistic Artificial Intelligence, Foundations of Reinforcement Learning, Large Language Models, Big Data
-            - Statistics: Fundamentals of Mathematical Statistics, Time Series Analysis, Computational Statistics
+            - Machine learning & AI: Advanced Machine Learning, Probabilistic Artificial Intelligence, Foundations of Reinforcement Learning, Large Language Models
+            - Statistics: Fundamentals of Mathematical Statistics, Computational Statistics, Time Series Analysis
 
       - institution: ETH Zürich
         location: Zürich, Switzerland
@@ -26,7 +26,7 @@ cv:
         start_date: 2019
         end_date: 2022
         highlights:
-          - Bachelor's thesis at the Paul Scherrer Institute (PSI) in radiochemistry; the research contributed to a [peer-reviewed publication](https://doi.org/10.1016/j.jallcom.2024.176954).
+          - Bachelor's thesis at the Paul Scherrer Institute (PSI) in radiochemistry. The research contributed to a [peer-reviewed publication](https://doi.org/10.1016/j.jallcom.2024.176954).
 
     Experience:
       - company: United Nations Office for Disaster Risk Reduction (UNDRR)
