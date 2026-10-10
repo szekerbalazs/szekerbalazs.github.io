@@ -5,7 +5,7 @@ cv:
     Education:
       - institution: ETH Zürich
         location: Zürich, Switzerland
-        url: https://math.ethz.ch/sfs
+        url: https://math.ethz.ch/sfs/education/msc-in-statistics.html
         degree: MSc, Statistics
         start_date: 2024
         end_date: present
@@ -19,7 +19,7 @@ cv:
 
       - institution: ETH Zürich
         location: Zürich, Switzerland
-        url: https://www.phys.ethz.ch/
+        url: https://www.phys.ethz.ch/studies/bachelor.html
         degree: BSc, Physics
         start_date: 2019
         end_date: 2022
