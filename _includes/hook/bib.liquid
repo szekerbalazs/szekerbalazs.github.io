@@ -1,0 +1,6 @@
+{% comment %}
+  Hook included by al_folio_core's bib layout before the venue line is assembled.
+  markdownify leaves a trailing newline after additional_info, which shows up as a
+  space before the comma ("modelling , 2024"); strip it.
+{% endcomment %}
+{% assign entrytype = entrytype | strip %}
