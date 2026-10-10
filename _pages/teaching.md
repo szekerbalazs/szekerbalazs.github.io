@@ -9,6 +9,8 @@ toc:
 _styles: >
   .post article h2 { margin-top: 3rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--global-divider-color); }
   .post article h3 { margin-top: 2rem; font-size: 1.2rem; }
+  .post article table { display: block; max-width: 100%; overflow-x: auto; }
+  @media (max-width: 575.98px) { .post article table { font-size: 0.85rem; } }
 ---
 
 I enjoy teaching, and I have done a fair amount of it alongside my studies: as a teaching assistant at ETH Zürich, as a private tutor, and through the course summaries I write and share.
