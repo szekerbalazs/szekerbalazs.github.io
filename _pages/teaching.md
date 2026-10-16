@@ -23,6 +23,7 @@ Master's course by Andreas Krause. Course websites: [autumn 2026](https://las.in
 
 - Teaching tutorials. Recorded (ETH login required):
   - [Gaussian Processes](https://video.ethz.ch/lectures/d-infk/2026/autumn/263-5210-00L/v/Dfl7j4X74mL) (2026): from linear regression via Bayesian linear regression to Gaussian processes, including kernels, learning, inference and sampling
+  - [Gaussian Processes II](https://video.ethz.ch/lectures/d-infk/2026/autumn/263-5210-00L/v/E2WRnUszp_3) (2026): model selection by validation-set performance and by maximizing the marginal likelihood, and approximate methods for large datasets, including local methods, data subsampling and inducing points
 - Creating and revising homework assignments
 - Creating and revising coding assignments
 
