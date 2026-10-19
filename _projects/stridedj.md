@@ -8,6 +8,8 @@ category: Personal
 
 StrideDJ is a running agent you message on Telegram. Text it something like _"10k Z2 tonight"_, and it estimates how long the run will take from your own Garmin history, finds a free slot in your Google Calendar and builds a Spotify playlist matched to your cadence. Nothing is booked until you approve the proposal.
 
+[![Architecture of StrideDJ](/assets/img/stridedj-architecture.svg){: .img-fluid .rounded }](/assets/img/stridedj-architecture.svg)
+
 - **Harness:** a tool-calling agent on the OpenAI Responses API in a hand-built harness, without an agent framework. Messages pass deterministic checks before the model sees them, the six read-only tools have strict JSON schemas, and every run has budgets for steps, tool calls, cost and time.
 - **Approval and execution:** the model can only read. Its proposals are checked against the plans the tools actually created, approval tokens are bound to the plan's content hash, and a separate executor writes the calendar event and the playlist exactly once.
 - **Prompt-injection defence:** untrusted text such as song titles and calendar invites never enters the model's context, and the model has no write channel.
