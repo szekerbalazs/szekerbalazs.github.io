@@ -5,7 +5,7 @@ permalink: /projects/
 description: Selected projects from industry and coursework.
 nav: true
 nav_order: 3
-display_categories: [Industry, Coursework]
+display_categories: [Industry, Personal, Coursework]
 horizontal: false
 _styles: >
   .projects h2.category { color: var(--global-text-color-light); }
